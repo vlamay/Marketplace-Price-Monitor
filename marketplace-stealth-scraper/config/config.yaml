@@ -1,0 +1,10 @@
+products:
+  - name: "Herman Melville - Moby-Dick"
+    url: "https://httpbin.org/html"
+    selector: "h1"
+    threshold: 0
+
+settings:
+  interval: 5
+  telegram_enabled: true
+  export: csv
